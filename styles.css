@@ -17,13 +17,6 @@ nav {
     text-align: center;
 }
 
-textarea{
-    width: 80%;
-    height: 10vh;
-    margin : 1rem;
-    display: block;
-    padding: 1rpm;
-}
 #output {
     box-sizing: border-box;
     width: 100%;
