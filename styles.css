@@ -15,6 +15,8 @@ body {
 .navigation {
     background-color: var(--primary);
     text-align: center;
+    font-size: 2rem; 
+    padding: 1rem;
 }
 
 #output {
@@ -24,6 +26,7 @@ body {
     max-height: 20vh;
     overflow: scroll;
     border: 1px solid var(--black);
+    font-size: large;
 }
 .textarea {
     box-sizing: border-box;
@@ -59,4 +62,5 @@ body {
     padding: 1rem;
     background-color: var(--primary);
     text-align: center;
+    font-size: x-large;
 }
