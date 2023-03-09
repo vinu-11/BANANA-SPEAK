@@ -12,7 +12,7 @@ body {
     color: #333333;
 }
 
-nav {
+.navigation {
     background-color: var(--primary);
     text-align: center;
 }
@@ -25,7 +25,7 @@ nav {
     overflow: scroll;
     border: 1px solid var(--black);
 }
-textarea {
+.textarea {
     box-sizing: border-box;
     display: block;
     width: 100%;
@@ -35,7 +35,7 @@ textarea {
     font-family: inherit;
 }
 
-main {
+.main-content {
     margin: auto;
     padding: 1rem;
     max-width: var(--width-break);
@@ -43,7 +43,7 @@ main {
 
 }
 
-button {
+.button-style {
     background-color: var(--primary);
     border: none;
     margin: 1rem 0rem;
@@ -52,7 +52,7 @@ button {
     font-size: large;
 }
 
-footer {
+.footer {
     position: fixed;
     bottom: 0;
     width: 100%;
